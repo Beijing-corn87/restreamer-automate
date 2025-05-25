@@ -1,0 +1,8 @@
+{
+    "server_address": "http://localhost:8081",
+    "username": "YOUR USERNAME HERE",
+    "password": "YOUR PASSWORD HERE",
+    "connect_time": "20:45",
+    "disconnect_time": "05:00",
+    "process_id": "YOUR PROCESS ID HERE"
+  }
